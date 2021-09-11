@@ -10,5 +10,5 @@ git clone https://github.com/David-Israel-Ortiz/PassGen.git
 # Abrir o terminal dentro da pasta
 python3 password_gen.py
 # Vendo os resultados
-![Alt text](https://www.github.com/David-Israel-Ortiz/PassGen/blob/main/passgen.png?raw=true "Optional Title") 
+![Alt text]passgen.png 
 # Se tiver uma falha sinta-se a vontade de abrir uma Issue
